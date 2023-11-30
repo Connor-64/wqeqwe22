@@ -14,14 +14,6 @@
       "description": "哪吒密钥",
       "value": "1"
     },
-    "SUB_NAME": {
-      "description": "节点名称",
-      "value": "scalingo"
-    },
-    "SUB_URL": {
-      "description": "上传订阅合集地址",
-      "value": "https://xxxx.com"
-    },
     "PUBLIC_URL": {
       "description": "保持默认即可",
       "generator": "url"
